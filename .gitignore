@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/packages
+/dotnetFramework_JEN/obj
+/dotnetFramework_JEN/bin
